@@ -1,4 +1,4 @@
-package com.psr.sbootdemo.config;
+package config;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.context.annotation.Bean;
